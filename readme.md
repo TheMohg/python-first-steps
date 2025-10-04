@@ -1,2 +1,2 @@
-Starting learn to code in python!
-well, i dont know how to add the virtual environment from python to github... if its possible
+Learning Python from 0
+it's just a study material, isnt a project!
