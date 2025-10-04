@@ -95,3 +95,7 @@
 #         print("Welcome again!")
 
 
+# goods = ["milk", "beans", "carrot", "rice"]
+
+# for item in goods:
+#     print(f"you need: {item}")
